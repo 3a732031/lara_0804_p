@@ -1,0 +1,24 @@
+diff a/.idea/workspace.xml b/.idea/workspace.xml	(rejected hunks)
+@@ -16,15 +16,15 @@
+   </component>
+   <component name="PhpWorkspaceProjectConfiguration">
+     <include_path>
+-      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+-      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+       <path value="$PROJECT_DIR$/vendor/psr/log" />
+-      <path value="$PROJECT_DIR$/vendor/composer" />
+-      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+-      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+-      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+-      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
++      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
++      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+       <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
++      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
++      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
++      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
++      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
++      <path value="$PROJECT_DIR$/vendor/composer" />
+     </include_path>
+   </component>
+   <component name="ProjectId" id="1zQlTxiwnYxYQ020yuZFXewbnKl" />
